@@ -1,4 +1,5 @@
 **Project Description**
+
 StakeLab is a multi-chain staking infrastructure provider and a non-custodial staking platform. We empower end users to manage both staked and non-staked assets while providing visibility across their entire portfolio, spanning over 80+ blockchains. Users can generate rewards through staking and utilize these rewards to diversify their portfolio into new assets. StakeLab also offers on/off-ramp services and is working towards implementing cross-chain transactions between different chains and assets.
 
 **Goals**
@@ -8,6 +9,7 @@ StakeLab is a multi-chain staking infrastructure provider and a non-custodial st
 - Facilitate swaps to/in Avalanche ecosystem.
 
 **Use Cases**
+
 We believe Avalanche staking requires increased visibility from other ecosystems. Our community (Cosmos France, 1.5k members) originated from the Cosmos ecosystem, and we see an excellent opportunity for cross-ecosystem growth. By enabling users to generate rewards and diversify their portfolios, we can significantly contribute to the evolution of the Avalanche ecosystem beyond its current boundaries.
 
 With IBC (Inter-Blockchain Communication) integration becoming imminent through the launch of Landscape, we believe this is the ideal time to capitalize on increased visibility and utility for the Avalanche network.
@@ -28,9 +30,11 @@ With IBC (Inter-Blockchain Communication) integration becoming imminent through 
 - Support cross-chain swaps, allowing users to convert rewards from other ecosystems into $AVAX, fiat, or stablecoins.
 
 **Budget**
+
 We are requesting $100,000 to support the development costs outlined in the roadmap.
 
 **Team**
+
 Our team comprises experienced engineers (DevOps, full-stack developers) and designers who have worked on various high-profile crypto projects, such as Ledger, WalletConnect, Shares, and CTRL Wallet. Each team member has over 10 years of experience in their respective fields and extensive experience working in the crypto space.
 
 More details about our team can be found at: [StakeLab Team](https://www.stakelab.zone/about)
